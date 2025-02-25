@@ -12,6 +12,6 @@ Welcome to my personal portfolio! 🚀 This project showcases my skills, project
 - **JavaScript** – Interactivity and animations  
 
 ## 🚀 Live Demo  
-👉 [View My Portfolio](https://personal-portfolio-project-gules.vercel.app/)
+👉 [View My Portfolio](https://personal-portfolio-project-rf796rxi0-hillarys-projects-8e49bef0.vercel.app/)
 
 
