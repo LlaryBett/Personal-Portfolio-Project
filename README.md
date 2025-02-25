@@ -1,2 +1,17 @@
 # Personal-Portfolio-Project
-I built this portfolio using HTML, CSS, and JavaScript to showcase my skills, projects, and experience in web development. It features a modern, responsive design with smooth animations and interactive elements, ensuring a seamless user experience across devices. 
+Welcome to my personal portfolio! 🚀 This project showcases my skills, projects, and experience in web development. Built with HTML, CSS, and JavaScript, it features a clean, responsive, and interactive design. 
+# ✨ Features
+- 🎨 **Modern & Responsive Design** – Works seamlessly on all devices.
+- ⚡ **Interactive UI** – Smooth animations and transitions.
+- 📂 **Projects Showcase** – A collection of my best work.
+- 📞 **Contact Section** – Easy way to reach out to me.
+
+## 🔧 Technologies Used
+- **HTML** – Structure of the website  
+- **CSS** – Styling and layout  
+- **JavaScript** – Interactivity and animations  
+
+## 🚀 Live Demo  
+👉 [View My Portfolio](https://personal-portfolio-project-gules.vercel.app/)
+
+
